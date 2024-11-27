@@ -1,0 +1,9 @@
+footer {
+    padding: 2rem;
+    background-color: var(--corpo-cor);
+}
+
+footer p {
+    text-align: center;
+    font-size: 1.25rem;
+}
