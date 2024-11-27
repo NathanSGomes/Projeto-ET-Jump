@@ -1,5 +1,5 @@
 .inicio {
-    background-image: url('/assests/img/bg.jpg');
+    background-image: url('./assests/img/bg.jpg');
     background-size: cover; /* Ajusta a imagem para cobrir todo o elemento */
     background-repeat: no-repeat; /* Evita repetição da imagem */
     background-position: center; /* Centraliza a imagem */
